@@ -1,1 +1,1 @@
-* Zellij.el - control zellij from emacs
+* Zellij.el - Control Zellij from Emacs
